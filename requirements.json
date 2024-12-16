@@ -1,0 +1,6 @@
+{
+  "backend-service-url": "https://backend-mlgc-88098135518.asia-southeast2.run.app/",
+  "frontend-service-url": "https://submissionmlgc-hilmicuy.et.r.appspot.com",
+  "project-id": "submissionmlgc-hilmicuy",
+  "bucket-name": "cancer-prediction-storage1"
+}
